@@ -47,6 +47,9 @@ sudo wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-7.8.
 sudo unzip sonarqube-7.8.zip
 sudo rm -rf sonarqube-7.8.zip
 sudo mv sonarqube-7.8 sonarqube
+
+** latest sonarqube software doenload 
+
 ```
 
 ## 5. Grant file permissions for sonar user to start and manage sonarQube
